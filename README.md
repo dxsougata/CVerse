@@ -7,6 +7,7 @@ An AI-powered Python tool that extracts and generates structured text from resum
 - Ideal for students, developers
 
 - Here are some sample pictures :
-![Screenshot (6)](https://github.com/user-attachments/assets/64cf8eb3-b969-4762-bef6-646f447120d5)
+
 ![Screenshot 2025-06-29 212308](https://github.com/user-attachments/assets/51411c92-b091-4027-a25d-c93eb6277bcf)
+
 ![Screenshot 2025-06-29 212656](https://github.com/user-attachments/assets/2abfff0f-f78a-45dd-adc4-511267076c7b)
